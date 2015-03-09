@@ -12,6 +12,7 @@
 @interface UIImageViewModeScaleAspect : UIView
 
 @property(nonatomic, strong) UIImage *image;
+@property (strong, nonatomic) UIImageView *img;
 
 #pragma mark - Automatic Animate
 
