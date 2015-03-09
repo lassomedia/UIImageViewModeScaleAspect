@@ -13,7 +13,6 @@
 
 @property (readwrite, nonatomic) CGRect newFrameWrapper;
 @property (readwrite, nonatomic) CGRect newFrameImg;
-@property (strong, nonatomic) UIImageView *img;
 
 @end
 
